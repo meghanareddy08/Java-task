@@ -1,4 +1,4 @@
-public class DEMO {
+public class demo {
     public static void main(String[] args) {
         int rollno = 1596; // Corrected data type
         String sname = "Meghana";
