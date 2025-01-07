@@ -5,6 +5,7 @@ public class demo {
         String coursename = "Python";
         System.out.println("Learn here and lead anywhere");
         System.out.println("My name is: " + sname);
+        System.out.println("My name is: " + sname);
         System.out.println("Thank you");
     }
 }
